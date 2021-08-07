@@ -1,2 +1,3 @@
 name: Willis Kim
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
