@@ -7,7 +7,7 @@ layout: feed
 	<link href="http://willis-k.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://willis-k.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
+	<id>http://willisk-main.github.io/blog</id>
 	<author>
 		<name>Willis Kim</name>
 		<email>willisk@gmail.com</email>
