@@ -5,7 +5,7 @@ layout: feed
 
 	<title>Willis Kim's Blog</title>
 	<link href="http://willis-k.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://willis-.github.io/blog"/>
+	<link href="http://willis-k.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://hankquinlan.github.io/blog</id>
 	<author>
